@@ -4,7 +4,7 @@
 
 - 🔭 Работаю в Яндекс над проектом Яндекс Про  
   
-- ✍️ Постепенно изучаю автоматизацию (Python и  PlyPlaywright)  
+- ✍️ Постепенно изучаю автоматизацию (Python и  Playwright)  
 
 - ⚡Интересный факт: когда-то была фотографом иллюстратором, поэтому в моем арсенале есть даже Adobe
 
@@ -16,9 +16,6 @@
 <img src=https://github.com/n-foll/cr/blob/main/icons8-github-64.png?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 <a href="https://t.me/n_foll" target="_blank">
   <img src="https://github.com/n-foll/cr/blob/main/icons8-телеграм-48.png?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://ru.linkedin.com/in/%D0%BD%D0%B0%D0%B4%D0%B5%D0%B6%D0%B4%D0%B0-%D0%B1%D1%83%D1%80%D1%82%D0%BE%D0%B2%D0%B0%D1%8F-426120372" target="_blank">
-  <img src="https://github.com/n-foll/cr/blob/main/icons8-линкедин-48.png?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://set.ki/fKdUPyM" target="_blank">
   <img src="https://github.com/n-foll/cr/blob/main/unnamed.png&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
