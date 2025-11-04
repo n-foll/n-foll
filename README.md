@@ -43,7 +43,7 @@
 ### Тестирование веб-приложений:  
 <div align="left">  
   <a href="https://www.soapui.org/" target="_blank"><img style="margin: 10px" src="https://github.com/n-foll/cr/blob/main/soapui.svg" alt="soapui" height="50" /></a>
-  <a href="https://yandex.cloud/ru/services/wiki" target="_blank"><img style="margin: 10px" src="https://github.com/n-foll/cr/blob/main/icons8-postman-inc-48.png" alt="Figma" height="50" /></a>
+  <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://github.com/n-foll/cr/blob/main/icons8-postman-inc-48.png" alt="Figma" height="50" /></a>
 </div>  
 
 
